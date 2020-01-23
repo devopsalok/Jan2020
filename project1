@@ -1,0 +1,17 @@
+git config
+git init
+git status
+git add * /git add.filename
+git commit -m "message of commit"
+git push
+git merge
+git stash
+
+git add.Dashboard.java
+git clone >Repo URL
+git commit git push
+
+git merge  <target file>  <source file>
+git log
+git diff
+
